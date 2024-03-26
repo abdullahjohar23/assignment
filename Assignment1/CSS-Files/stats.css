@@ -1,0 +1,26 @@
+* {
+    font-family: sans-serif;
+    color: white;
+}
+
+.container {
+    max-width: 300px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 30px 10px 30px 10px;
+    background-color: #3730a3;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.change {
+    color: #c7d2fe;
+    margin-bottom: 30px;
+}
+
+.design {
+    font-weight: 900;
+    font-size: 40px;
+}
